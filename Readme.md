@@ -5,7 +5,7 @@ con los datos detallados a continuación y enviar formulario. Validar que el
 formulario se envió con éxito. Los datos a utilizar para completar el form son los
 siguientes:
   - Name, Company & Message = "Test"
-  - Email = "test@decemberlabs.com"
+  - Email = "test@*********.com"
 
 * Dentro de la web de December Labs, navegar hasta el form, no completar
 ningún campo y enviar formulario. Validar que se visualizan mensajes de error
